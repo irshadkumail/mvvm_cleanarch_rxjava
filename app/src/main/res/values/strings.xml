@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="error_encountered">Error Encountered</string>
+</resources>
